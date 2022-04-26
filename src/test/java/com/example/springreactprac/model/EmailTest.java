@@ -28,6 +28,6 @@ class EmailTest {
 
         assertEquals(email1,email2);
 
-    } 
+    }
 
 }
